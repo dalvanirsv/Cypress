@@ -1,1 +1,1 @@
-# project dedicated to cypress
+# testes de aplicações modernas com Cypress
