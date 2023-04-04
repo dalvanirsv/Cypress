@@ -10,4 +10,9 @@ it('nada agora', function(){})
 //return a + b
 //}
 
+//const soma = (a, b) => a + b
+
+//const soma = (a) => a +a
+
+
 console.log(soma(1,4))
