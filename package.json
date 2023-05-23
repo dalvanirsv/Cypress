@@ -1,24 +1,15 @@
 {
-  "name": "Cypress",
+  "name": "cypress",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cy:open": "cypress open",
-    "test": "cypress run"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dalvanirsv/Cypress.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dalvanirsv/Cypress/issues"
-  },
-  "homepage": "https://github.com/dalvanirsv/Cypress#readme",
   "dependencies": {
-    "cypress": "^3.6.0"
+    "cypress": "^12.12.0"
   }
 }
