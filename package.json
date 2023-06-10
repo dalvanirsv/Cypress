@@ -12,5 +12,9 @@
   "dependencies": {
     "cypress": "^12.12.0",
     "cypress-axe": "^1.4.0"
+  },
+  "compilerOptions": {
+    "lib": ["ES2018"],
+    "target": "ES2018"
   }
 }
