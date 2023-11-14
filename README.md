@@ -1,2 +1,2 @@
 # Cypress
-simple test using cypress
+simple test using cypress and acessibility testing
